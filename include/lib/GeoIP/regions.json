@@ -1,0 +1,10 @@
+{
+	"APAC": ["JP", "AU", "KR", "ID", "TH", "MY", "SG", "PH", "NZ", "VN", "MM", "BN", "KH", "MN", "FJ", "LA", "SB", "TL", "WS", "TO"],
+	"NORTHAMERICA": ["US", "CA", "TT", "JM", "BS", "BB", "BZ", "LC", "AG", "GD", "VC", "KN"],
+	"LATINAMERICA": [
+		"BR", "CO", "AR", "PE", "VE", "CL", "EC", "BO", "PY", "UY", "GF", "FK",
+		"MX", "CU", "DO", "DM", "GT", "CR", "PA", "SV", "HN", "NI", "HT",
+		"PR", "GP", "MQ", "MF"
+	],
+	"CHINA": ["CN", "TW", "HK"]
+}
